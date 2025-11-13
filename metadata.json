@@ -1,0 +1,5 @@
+{
+  "name": "PPM Generator with Gemini AI",
+  "description": "An application to generate Deep Learning Lesson Plans (PPM) using Gemini AI for content analysis, integration, and structured output.",
+  "requestFramePermissions": []
+}
